@@ -42,14 +42,15 @@
 "email unavailable!" = "e-mail indisponível!";
 "username or password error!" = "erro de nome de utilizador ou palavra-passe!";
 "Connection successful!" = "Conexão estabelecida com sucesso!";
-"From the beginning,applications can help you make the most of connected devices" = "Desde o início, as aplicações podem ajudá-lo a tirar o máximo rendimento dos seus dispositivos conectados";
+"Create your account now to get the most out of your robot lawn mower." = "Desde o início, as aplicações podem ajudá-lo a tirar o máximo rendimento dos seus dispositivos conectados";
 "Welcome!" = "Bem-vindo!";
 "New id" = "Nova identificação";
 "Login" = "Login";
 "Device to connect" = "Dispositivo para conexão";
 "Start to experience" = "Ligue para experimentar";
 "Your personal information" = "Os seus dados pessoais";
-"To create an account,we need your personal information" = "Para criar uma conta,precisamos dos seus dados pessoais";
+"Please select your country and press continue" = "Para criar uma conta,precisamos dos seus dados pessoais";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Região";
 "Continue to" = "Continuar para";
 "Please prepare your home wireless network password You may need it later" = "Por favor prepare a sua password de rede  sem fios doméstica. Poderá precisar dela mais tarde";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Consultar o manual para mais pormenores.";
 "Forgot password" = "Palavra-passe esquecida.";
 "Resetting the password is easy" = "Redefinir a palavra-passe é fácil";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Enviar-lhe-emos os passos para redefinir a sua palavra-passe. Primeiro, confirme o seu endereço de e-mail:";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Enviar-lhe-emos os passos para redefinir a sua palavra-passe. Primeiro, confirme o seu endereço de e-mail:";
 "Confirm" = "Confirmar";
 "We have sent you an E-mail" = "Enviámos-lhe um e-mail";
 "Please follow the steps listed in the email to reset your password" = "Por favor, siga os passos enumerados no e-mail para redefinir a sua palavra-passe";
@@ -76,7 +77,7 @@
 "First name" = "Nome próprio";
 "Set the time" = "Defina o tempo";
 "Please set password" = "Por favor, defina palavra-passe";
-"Passwords should be at least 6 characters,including 1 digit" = "As palavras-passe devem ter pelo menos 6 caracteres, incluindo 1 dígito";
+"Passwords should be at least 6 characters, including 1 digit" = "As palavras-passe devem ter pelo menos 6 caracteres, incluindo 1 dígito";
 "Your account has been created successfully" = "A sua conta foi criada com sucesso";
 "Now, let's connect your device" = "Agora, vamos conectar o seu dispositivo";
 "Add your device later" = "Adicione o seu dispositivo mais tarde";

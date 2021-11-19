@@ -42,14 +42,15 @@
 "email unavailable!" = "E-post ikke tilgjengelig";
 "username or password error!" = "Feil i brugernavn eller passord";
 "Connection successful!" = "Tilkoblingen vellykket";
-"From the beginning,applications can help you make the most of connected devices" = "Fra begynnelsen av kan applikasjoner hjelpe deg med å få mest mulig ut av tilkoblede enheter.";
+"Create your account now to get the most out of your robot lawn mower." = "Fra begynnelsen av kan applikasjoner hjelpe deg med å få mest mulig ut av tilkoblede enheter.";
 "Welcome!" = "Velkommen";
 "New id" = "Ny ID";
 "Login" = "Logg Inn";
 "Device to connect" = "Enhet for å koble til";
 "Start to experience" = "Begynne å oppleve";
 "Your personal information" = "Dine personlige data";
-"To create an account,we need your personal information" = "For å opprette en konto trenger vi dine personlige data";
+"Please select your country and press continue" = "For å opprette en konto trenger vi dine personlige data";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Region";
 "Continue to" = "Fortsette å";
 "Please prepare your home wireless network password You may need it later" = "Forbered ditt trådløse nettverk passord. Du kan trenge det senere.";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Se håndboken for detaljer i begynnelseen";
 "Forgot password" = "Glemt passord";
 "Resetting the password is easy" = "Det er enkelt å tilbakestille passordet";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Vi sender deg trinnene for å tilbagestille passordet ditt. Først bekreft e-postadressen din.";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Vi sender deg trinnene for å tilbagestille passordet ditt. Først bekreft e-postadressen din.";
 "Confirm" = "Bekreft";
 "We have sent you an E-mail" = "Vi har sendt deg en e-post";
 "Please follow the steps listed in the email to reset your password" = "Følg trinnene som er oppført i e-posten for å tilbagestille passordet ditt";
@@ -76,7 +77,7 @@
 "First name" = "Fornavn";
 "Set the time" = "Angi klokkeslettet";
 "Please set password" = "Angi passord";
-"Passwords should be at least 6 characters,including 1 digit" = "Passord skal være minst 6 tegn, inkludert 1 siffer.";
+"Passwords should be at least 6 characters, including 1 digit" = "Passord skal være minst 6 tegn, inkludert 1 siffer.";
 "Your account has been created successfully" = "Kontoen din er opprettet";
 "Now, let's connect your device" = "La oss koble til enheten dn";
 "Add your device later" = "Legg til enheten din senere";

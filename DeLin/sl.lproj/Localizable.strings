@@ -42,14 +42,15 @@
 "email unavailable!" = "Email ni na voljo!";
 "username or password error!" = "Napaka uporabniškega imena ali gesla!";
 "Connection successful!" = "Povezava uspešna!";
-"From the beginning,applications can help you make the most of connected devices" = "Aplikacije vam od začetka pomaga, da boste lahko v polnosti izkoristili povezano napravo.";
+"Create your account now to get the most out of your robot lawn mower." = "Aplikacije vam od začetka pomaga, da boste lahko v polnosti izkoristili povezano napravo.";
 "Welcome!" = "Dobrodošli!";
 "New id" = "Nov ID";
 "Login" = "Prijava";
 "Device to connect" = "Povežite napravo";
 "Start to experience" = "Začnite izkušnjo";
 "Your personal information" = "Vaši osebni podatki";
-"To create an account,we need your personal information" = "Za ustvarjanje računa potrebujemo vaše osebne podatke";
+"Please select your country and press continue" = "Za ustvarjanje računa potrebujemo vaše osebne podatke";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Regija";
 "Continue to" = "Nadaljujte do";
 "Please prepare your home wireless network password You may need it later" = "Pripravite geslo za domače brezžično omrežje. Morda ga boste potrebovali pozneje.";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Pred začetkom preberite navodila za uporabo";
 "Forgot password" = "Ste pozabili geslo";
 "Resetting the password is easy" = "Ponastavitev gesla je enostavna";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Poslali vam bomo korake za ponastavitev gesla. Najprej potrdite svoj e-poštni naslov:";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Poslali vam bomo korake za ponastavitev gesla. Najprej potrdite svoj e-poštni naslov:";
 "Confirm" = "Potrdi";
 "We have sent you an E-mail" = "Poslali smo vam e-mail";
 "Please follow the steps listed in the email to reset your password" = "Za ponastavitev gesla sledite korakom, navedenim v e-mailu";
@@ -76,7 +77,7 @@
 "First name" = "Ime";
 "Set the time" = "Nastavite čas";
 "Please set password" = "Prosimo, nastavite geslo";
-"Passwords should be at least 6 characters,including 1 digit" = "Gesla mora vsebovati vsaj 6 znakov in vsaj eno številko";
+"Passwords should be at least 6 characters, including 1 digit" = "Gesla mora vsebovati vsaj 6 znakov in vsaj eno številko";
 "Your account has been created successfully" = "Vaš račun je bil uspešno ustvarjen";
 "Now, let's connect your device" = "Sedaj povežeti vašo napravo";
 "Add your device later" = "Napravo dodajte pozneje";

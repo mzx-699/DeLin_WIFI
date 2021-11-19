@@ -124,7 +124,7 @@
         }];
         
         UILabel *tiplabel = [[UILabel alloc] init];
-        tiplabel.text = [NSString stringWithFormat:@"%@\n%@",LocalString(@"We will send you the steps to reset your password.First,please confirm your email address:"),self.emailResetStr];
+        tiplabel.text = [NSString stringWithFormat:@"%@\n%@",LocalString(@"We will send you the steps to reset your password. First, please confirm your email address:"),self.emailResetStr];
         tiplabel.font = [UIFont systemFontOfSize:16.f];
         tiplabel.textColor = [UIColor colorWithRed:255/255.0 green:255/255.0 blue:255/255.0 alpha:0.7];
         tiplabel.numberOfLines = 0;

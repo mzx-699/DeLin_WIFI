@@ -42,14 +42,15 @@
 "email unavailable!" = "E-mail nie jest dostępny!";
 "username or password error!" = "Błędna nazwa użytkownika lub hasło!";
 "Connection successful!" = "Połączenie powiodło się!";
-"From the beginning,applications can help you make the most of connected devices" = "Aplikacja od początku może pomóc najlepiej wykorzystywać podłączone urządzenia";
+"Create your account now to get the most out of your robot lawn mower." = "Aplikacja od początku może pomóc najlepiej wykorzystywać podłączone urządzenia";
 "Welcome!" = "Witaj!";
 "New id" = "Nowe ID";
 "Login" = "Logowanie";
 "Device to connect" = "Urządzenie, które zostało podłączone";
 "Start to experience" = "Zapoznaj się z procedurą";
 "Your personal information" = "Twoje dane osobowe";
-"To create an account,we need your personal information" = "Do stworzenia konta potrzebne są Twoje dane osobowe";
+"Please select your country and press continue" = "Do stworzenia konta potrzebne są Twoje dane osobowe";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Region";
 "Continue to" = "Dalej";
 "Please prepare your home wireless network password You may need it later" = "Przygotuj hasło dostępu do lokalnej sieci bezprzewodowej. Może być później potrzebne";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Zacznij wyszukiwać szczegółowe wskazówki w instrukcji.";
 "Forgot password" = "Zapomniane hasło";
 "Resetting the password is easy" = "Przywrócenie hasła jest łatwe";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Wyślemy Ci informacje o sposobie przywrócenia hasła. Najpierw potwierdź swój adres e-mail:";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Wyślemy Ci informacje o sposobie przywrócenia hasła. Najpierw potwierdź swój adres e-mail:";
 "Confirm" = "Potwierdź";
 "We have sent you an E-mail" = "Wysłaliśmy Ci e-mail";
 "Please follow the steps listed in the email to reset your password" = "Podczas przywracania hasła kieruj się wskazówkami z e-mailu";
@@ -76,7 +77,7 @@
 "First name" = "Login";
 "Set the time" = "Ustaw czas";
 "Please set password" = "Ustaw hasło";
-"Passwords should be at least 6 characters,including 1 digit" = "Hasło powinno zawierać przynajmniej 6 znaków, włącznie z 1 cyfrą";
+"Passwords should be at least 6 characters, including 1 digit" = "Hasło powinno zawierać przynajmniej 6 znaków, włącznie z 1 cyfrą";
 "Your account has been created successfully" = "Konto zostało utworzone";
 "Now, let's connect your device" = "Teraz można podłączyć urządzenie";
 "Add your device later" = "Dodaj urządzenie później";

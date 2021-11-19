@@ -12,6 +12,7 @@
 #import "WelcomeViewController.h"
 #import "IQKeyboardManager.h"
 #import "DeviceInfoViewController.h"
+#import "SetPasswordController.h"
 
 @interface AppDelegate ()
 
@@ -46,6 +47,8 @@
 
         _navController = [[UINavigationController alloc] initWithRootViewController:deviceInfoVC];
     }
+//    SetPasswordController *vc = [SetPasswordController new];
+//    self.window.rootViewController = vc;
     self.window.rootViewController = _navController;
     [self.window makeKeyAndVisible];
     

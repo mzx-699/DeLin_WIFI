@@ -40,7 +40,9 @@
     [self setUItextField];
     [GizWifiSDK sharedInstance].delegate = self;
 }
-
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    [self.view endEditing:YES];
+}
 #pragma mark - setters and getters
 
 - (void)setNavItem{
@@ -67,7 +69,7 @@
         }];
         
         UILabel *tiplabel = [[UILabel alloc] init];
-        tiplabel.text = LocalString(@"Passwords should be at least 6 characters,including 1 digit");
+        tiplabel.text = LocalString(@"Passwords should be at least 6 characters, including 1 digit");
         tiplabel.font = [UIFont systemFontOfSize:16.f];
         tiplabel.textColor = [UIColor colorWithRed:255/255.0 green:255/255.0 blue:255/255.0 alpha:0.7];
         tiplabel.numberOfLines = 0;
@@ -227,8 +229,8 @@
     self.passwordModelTF.inputText.keyboardType = UIKeyboardTypeASCIICapable;
     self.passwordModelTF.frame = accountF;
     self.passwordModelTF.inputText.delegate = self;
+    self.passwordModelTF.inputText.secureTextEntry = YES;
     [self.view addSubview:self.passwordModelTF];
-    
     UITapGestureRecognizer *tapGr = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(viewTapped:)];
     tapGr.cancelsTouchesInView = NO;
     

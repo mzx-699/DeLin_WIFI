@@ -42,14 +42,15 @@
 "email unavailable!" = "Email no disponible";
 "username or password error!" = "Usuario o contraseña incorrectos";
 "Connection successful!" = "Conexión correcta";
-"From the beginning,applications can help you make the most of connected devices" = "Puede obtener el máximo aprovechamiento con las aplicaciones";
+"Create your account now to get the most out of your robot lawn mower." = "Puede obtener el máximo aprovechamiento con las aplicaciones";
 "Welcome!" = "¡Bienvenido!";
 "New id" = "Nueva ID";
 "Login" = "Inicio sesión";
 "Device to connect" = "Dispositivo a conectar";
 "Start to experience" = "Comenzar a usar";
 "Your personal information" = "Información personal";
-"To create an account,we need your personal information" = "Para crear una cuenta, necesitamos su información personal";
+"Please select your country and press continue" = "Para crear una cuenta, necesitamos su información personal";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Region";
 "Continue to" = "Continuar";
 "Please prepare your home wireless network password You may need it later" = "Tenga su contraseña de wifi a mano; podrá necesitarla más tarde";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Consulte el manual para más detalles antes del primer uso.";
 "Forgot password" = "Contraseña olvidada";
 "Resetting the password is easy" = "Reiniciar la contraseña es fácil.";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Le enviaremos los pasos para conseguir su nueva contraseña. Confirme su email por favor: ";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Le enviaremos los pasos para conseguir su nueva contraseña. Confirme su email por favor: ";
 "Confirm" = "Confirmar";
 "We have sent you an E-mail" = "Le hemos enviado un e-mail";
 "Please follow the steps listed in the email to reset your password" = "Por favor, siga los pasos indicados en el e-mail para obtener su nueva contraseña";
@@ -76,7 +77,7 @@
 "First name" = "Nombre  ";
 "Set the time" = "Ajuste de la hora";
 "Please set password" = "Por favor, establezca contraseña";
-"Passwords should be at least 6 characters,including 1 digit" = "La contraseña ha de contar con 6 caracteres, incluyendo 1 número";
+"Passwords should be at least 6 characters, including 1 digit" = "La contraseña ha de contar con 6 caracteres, incluyendo 1 número";
 "Your account has been created successfully" = "Su cuenta ha sido creada de forma satisfactoria";
 "Now, let's connect your device" = "Conecte ahora su dispositivo";
 "Add your device later" = "Añada su dispositivo más tarde";

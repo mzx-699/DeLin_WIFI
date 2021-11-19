@@ -42,14 +42,15 @@
 "email unavailable!" = "Email non disponible !";
 "username or password error!" = "Erreur d' Utilisateur ou de Mot de passe";
 "Connection successful!" = "Connection réalisée avec succès!";
-"From the beginning,applications can help you make the most of connected devices" = "Dès la première utilisation, vous pouvez tirer le meilleur parti des applications";
+"Create your account now to get the most out of your robot lawn mower." = "Dès la première utilisation, vous pouvez tirer le meilleur parti des applications";
 "Welcome!" = "Bienvenue!";
 "New id" = "Nouvel ID";
 "Login" = "Login";
 "Device to connect" = "Dispositif à connecter";
 "Start to experience" = "Démarrer l'utilisation";
 "Your personal information" = "Vos informations personnelles";
-"To create an account,we need your personal information" = "Pour créer un compte, nous avons besoin de vos informations personnelles";
+"Please select your country and press continue" = "Pour créer un compte, nous avons besoin de vos informations personnelles";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Région";
 "Continue to" = "Continuer";
 "Please prepare your home wireless network password You may need it later" = "Veuillez préparer le mot de passe de votre réseau sans fil domestique. Vous en aurez peut-être besoin plus tard";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Veuillez vous référer au manuel pour plus de détails avant la première utilisation";
 "Forgot password" = "Mot de passe oublié";
 "Resetting the password is easy" = "La réinitialisation du mot de passe est facile";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Nous vous enverrons les étapes pour réinitialiser votre mot de passe.Tout d'abord, veuillez confirmer votre adresse e-mail:";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Nous vous enverrons les étapes pour réinitialiser votre mot de passe.Tout d'abord, veuillez confirmer votre adresse e-mail:";
 "Confirm" = "Confirmer";
 "We have sent you an E-mail" = "Nous vous avons envoyé un e-mail";
 "Please follow the steps listed in the email to reset your password" = "Veuillez suivre les étapes répertoriées dans l'e-mail pour réinitialiser votre mot de passe";
@@ -76,7 +77,7 @@
 "First name" = "Prénom";
 "Set the time" = "Régler l'heure";
 "Please set password" = "Veuillez définir le mot de passe";
-"Passwords should be at least 6 characters,including 1 digit" = "Les mots de passe doivent comporter au moins 6 caractères, dont 1 chiffre";
+"Passwords should be at least 6 characters, including 1 digit" = "Les mots de passe doivent comporter au moins 6 caractères, dont 1 chiffre";
 "Your account has been created successfully" = "Votre compte a été créé avec succès";
 "Now, let's connect your device" = "Maintenant, connectons votre appareil";
 "Add your device later" = "Ajoutez votre appareil plus tard";

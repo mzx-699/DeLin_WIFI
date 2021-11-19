@@ -42,14 +42,15 @@
 "email unavailable!" = "Email ikke til rådighed";
 "username or password error!" = "Fejl i brugernavn eller password";
 "Connection successful!" = "Forbindelsen er vellykket";
-"From the beginning,applications can help you make the most of your connected devices" = " ";
+"Create your account now to get the most out of your robot lawn mower." = " ";
 "Welcome!" = "Velkommen";
 "New id" = "Ny ID";
 "Login" = "Login";
 "Device to connect" = "Enhed, der skal tilsluttes";
 "Start to experience" = "Begynd at opleve";
 "Your personal information" = "Dine personlige data";
-"To create an account,we need your personal information" = "For at oprette en konto, skal vi kende dine  personlige data";
+"Please select your country and press continue" = "For at oprette en konto, skal vi kende dine  personlige data";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Region";
 "Continue to" = "Fortsæt til";
 "Please prepare your home wireless network password You may need it later" = "Forbered dit trådløse hjemmenetværks password. Du kan få brug for det senere";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Tjek manualen for detaljer i begyndelsen";
 "Forgot password" = "Glemt password";
 "Resetting the password is easy" = "Det er nemt at nulstille password";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Vi vil sende dig trinene til at nulstille dit password. Venligst  bekræft din email adresse:";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Vi vil sende dig trinene til at nulstille dit password. Venligst  bekræft din email adresse:";
 "Confirm" = "Bekræft";
 "We have sent you an E-mail" = "Vi har sendt dig en e-mail.";
 "Please follow the steps listed in the email to reset your password" = "Følg trinene i emailen for at nulstille dit password";
@@ -76,7 +77,7 @@
 "First name" = "Fornavn";
 "Set the time" = "Indstilling af tid";
 "Please set password" = "Angiv password";
-"Passwords should be at least 6 characters,including 1 digit" = "Password skal indeholde mindst 6 tegn, herunder 1 tal";
+"Passwords should be at least 6 characters, including 1 digit" = "Password skal indeholde mindst 6 tegn, herunder 1 tal";
 "Your account has been created successfully" = "Din konto er nu oprettet";
 "Now, let's connect your device" = "Lad os nu tilkoble din enhed";
 "Add your device later" = "Tilføj din enhed senere";
@@ -120,7 +121,7 @@
 "Done" = "Færdig";
 "time out" = "tiden er gået";
 "Last name" = "Efternavn";
-"Through APP take advantage of your equipment" = "Gennem din APP får du mange fordele med dit udstyr";
+"Add your equipment to choose your mowing schedule and monitor your mower" = "Gennem din APP får du mange fordele med dit udstyr";
 "E1" = "E1 Emergency stop button trigger";
 "E2" = "E2 Lift sensor trigger";
 "E3" = "E3 Maskine udenfor afgrænsningsområde";

@@ -158,6 +158,7 @@
     self.passwordModelTF.inputText.keyboardType = UIKeyboardTypeEmailAddress;
     self.passwordModelTF.frame = emailF;
     self.passwordModelTF.inputText.delegate = self;
+    self.passwordModelTF.inputText.secureTextEntry = YES;
     [self.view addSubview:self.passwordModelTF];
     
     UITapGestureRecognizer *tapGrPassword = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(viewTappedPassword:)];

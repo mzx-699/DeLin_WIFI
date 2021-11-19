@@ -67,7 +67,7 @@
         }];
         
         UILabel *tiplabel = [[UILabel alloc] init];
-        tiplabel.text = LocalString(@"From the beginning,applications can help you make the most of your connected devices");
+        tiplabel.text = LocalString(@"Create your account now to get the most out of your robot lawn mower.");
         tiplabel.font = [UIFont systemFontOfSize:16.f];
         tiplabel.textColor = [UIColor colorWithRed:255/255.0 green:255/255.0 blue:255/255.0 alpha:0.7];
         tiplabel.numberOfLines = 0;

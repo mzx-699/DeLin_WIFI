@@ -42,14 +42,15 @@
 "email unavailable!" = "E-mail není k dispozici!";
 "username or password error!" = "Chybné uživatelské jméno nebo heslo!";
 "Connection successful!" = "Připojení bylo úspěšné!";
-"From the beginning,applications can help you make the most of connected devices" = "Aplikace vám od začátku mohou pomoci co nejlépe využívat připojená zařízení";
+"Create your account now to get the most out of your robot lawn mower." = "Aplikace vám od začátku mohou pomoci co nejlépe využívat připojená zařízení";
 "Welcome!" = "Vítejte!";
 "New id" = "Nový ID";
 "Login" = "Přihlášení";
 "Device to connect" = "Zařízení, které má být připojeno";
 "Start to experience" = "Seznamte se s postupem";
 "Your personal information" = "Vaše osobní údaje";
-"To create an account,we need your personal information" = "Pro vytvoření účtu potřebujeme vaše osobní údaje";
+"Please select your country and press continue" = "Pro vytvoření účtu potřebujeme vaše osobní údaje";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Oblast";
 "Continue to" = "Pokračovat";
 "Please prepare your home wireless network password You may need it later" = "Připravte si heslo pro přístup ke své domácí bezdrátové síti, které později můžete potřebovat";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Začněte vyhledáním podrobných pokynů v návodu.";
 "Forgot password" = "Zapomenuté heslo";
 "Resetting the password is easy" = "Obnovení hesla je snadné";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Zašleme vám informace o postupu obnovení hesla. Nejprve potvrďte svoji e-mailovou adresu:";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Zašleme vám informace o postupu obnovení hesla. Nejprve potvrďte svoji e-mailovou adresu:";
 "Confirm" = "Potvrdit";
 "We have sent you an E-mail" = "Zaslali jsme vám e-mail";
 "Please follow the steps listed in the email to reset your password" = "Při obnovování nastavení svého hesla se řiďte postupem, jehož kroky jsou uvedeny v emailu";
@@ -76,7 +77,7 @@
 "First name" = "Jméno";
 "Set the time" = "Nastavte čas";
 "Please set password" = "Nastavte heslo";
-"Passwords should be at least 6 characters,including 1 digit" = "Hesla by měla obsahovat nejméně 6 znaků, včetně 1 číslice";
+"Passwords should be at least 6 characters, including 1 digit" = "Hesla by měla obsahovat nejméně 6 znaků, včetně 1 číslice";
 "Your account has been created successfully" = "Váš účet byl úspěšně vytvořen";
 "Now, let's connect your device" = "Nyní lze připojit vaše zařízení";
 "Add your device later" = "Přidejte své zařízení později";

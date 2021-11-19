@@ -123,7 +123,7 @@ static float HEIGHT_CELL = 100.f;
         }];
         
         UILabel *tiplabel = [[UILabel alloc] init];
-        tiplabel.text = LocalString(@"Through APP take advantage of your equipment");
+        tiplabel.text = LocalString(@"Add your equipment to choose your mowing schedule and monitor your mower");
         tiplabel.font = [UIFont systemFontOfSize:13.f];
         tiplabel.textColor = [UIColor colorWithRed:255/255.0 green:255/255.0 blue:255/255.0 alpha:0.7];
         tiplabel.numberOfLines = 0;

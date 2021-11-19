@@ -42,14 +42,15 @@
 "email unavailable!" = "email non disponibile!";
 "username or password error!" = "errore di nome utente o password!";
 "Connection successful!" = "Connessione riuscita!";
-"From the beginning,applications can help you make the most of connected devices" = "Fin dall'inizio, le applicazioni possono aiutarti a ottenere il massimo dai dispositivi connessi";
+"Create your account now to get the most out of your robot lawn mower." = "Fin dall'inizio, le applicazioni possono aiutarti a ottenere il massimo dai dispositivi connessi";
 "Welcome!" = "Benvenuto !";
 "New id" = "Nuovo ID";
 "Login" = "Accesso";
 "Device to connect" = "Dispositivo da collegare";
 "Start to experience" = "Inizia a sperimentare";
 "Your personal information" = "Le tue informazioni personali";
-"To create an account,we need your personal information" = "Per creare un account, abbiamo bisogno delle tue informazioni personali";
+"Please select your country and press continue" = "Per creare un account, abbiamo bisogno delle tue informazioni personali";
+"Please enter your first and last name and press continue" = "Please enter your first and last name and press continue";
 "Region" = "Regione";
 "Continue to" = "Continuare a";
 "Please prepare your home wireless network password You may need it later" = "Preparare la password della rete wireless domestica. Potrebbe essere necessaria in seguito";
@@ -62,7 +63,7 @@
 "Please refer to the manual for details at the beginning." = "Fare riferimento al manuale per i dettagli all'inizio.";
 "Forgot password" = "Ha dimenticato la password";
 "Resetting the password is easy" = "Reimpostare la password è facile";
-"We will send you the steps to reset your password.First,please confirm your email address:" = "Ti invieremo i passaggi per reimpostare la tua password.In primo luogo, conferma il tuo indirizzo email:";
+"We will send you the steps to reset your password. First, please confirm your email address:" = "Ti invieremo i passaggi per reimpostare la tua password.In primo luogo, conferma il tuo indirizzo email:";
 "Confirm" = "Confermare";
 "We have sent you an E-mail" = "Ti abbiamo inviato un'e-mail";
 "Please follow the steps listed in the email to reset your password" = "Segui i passaggi elencati nell'e-mail per reimpostare la password";
@@ -77,7 +78,7 @@ Per creare un account di accesso, abbiamo anche bisogno di alcune delle tue info
 "First name" = "nome di battesimo";
 "Set the time" = "Imposta l'ora";
 "Please set password" = "Si prega di impostare la password";
-"Passwords should be at least 6 characters,including 1 digit" = "Le password devono contenere almeno 6 caratteri, inclusa 1 cifra";
+"Passwords should be at least 6 characters, including 1 digit" = "Le password devono contenere almeno 6 caratteri, inclusa 1 cifra";
 "Your account has been created successfully" = "Il tuo account è stato creato con successo";
 "Now, let's connect your device" = "Ora colleghiamo il tuo dispositivo";
 "Add your device later" = "Aggiungi il tuo dispositivo più tardi";
